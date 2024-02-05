@@ -1,2 +1,2 @@
-# ads-course
-Applied Data Analysis course assignments
+# Applied-Data-Science
+Applied Data Science Course Assignments
