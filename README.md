@@ -7,7 +7,9 @@ This course was held in the fall of 2023 under the supervision of [Dr. Salvati](
 We have implemented the answers to the assignments of this lesson with the participation of [Melika Nobakhtian](https://github.com/MelikaNobakhtian)
 
 
-[**Course Website**](https://saloot.github.io/ADS2023/)
+[**Course Website**]
+
+(https://saloot.github.io/ADS2023/)
 
 ## Table of Contents
 
